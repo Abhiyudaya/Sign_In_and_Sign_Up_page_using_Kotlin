@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "860205950081",
+    "firebase_url": "https://database-advanced-ui-ux-23fd6-default-rtdb.firebaseio.com",
+    "project_id": "database-advanced-ui-ux-23fd6",
+    "storage_bucket": "database-advanced-ui-ux-23fd6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860205950081:android:2b3c17c070992f881a5980",
+        "android_client_info": {
+          "package_name": "com.example.database"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjfICZfTqFovcJ2d7rfRqx_QtcnHK-Vdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860205950081:android:c27104e7580aa7c01a5980",
+        "android_client_info": {
+          "package_name": "com.example.database_advanced_ui_ux"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjfICZfTqFovcJ2d7rfRqx_QtcnHK-Vdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860205950081:android:da344f9ea2bde7c11a5980",
+        "android_client_info": {
+          "package_name": "com.example.database_advanced_ui_ux_"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjfICZfTqFovcJ2d7rfRqx_QtcnHK-Vdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
